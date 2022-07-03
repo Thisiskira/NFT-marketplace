@@ -1,2 +1,2 @@
 # NFT-marketplace
-![NFT-app](https://imgur.com/yEWwLBs)
+![NFT-app](https://i.imgur.com/4iLB6yx.jpg)
